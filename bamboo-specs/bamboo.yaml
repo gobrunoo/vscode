@@ -14,7 +14,7 @@ Default Job:
   key: JOB1
   tasks:
   - checkout:
-      force-clean-build: true
+      force-clean-build: false
       description: Checkout Default Repository
   artifact-subscriptions: []
 repositories:
